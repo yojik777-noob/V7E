@@ -1,1 +1,1 @@
-# V7E
+# SemkaOS на архитектуре podsolnyx-ppc
